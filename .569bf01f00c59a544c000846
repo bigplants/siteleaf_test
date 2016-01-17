@@ -1,0 +1,21 @@
+---
+time: 1453068196
+inventory:
+  "/first-page/index.html":
+    md5: 5b7ecf929ee64e342f654d5cb15e491a
+    time: 1453068194
+  "/index.html":
+    md5: 5b7ecf929ee64e342f654d5cb15e491a
+    time: 1453068194
+  "/CNAME":
+    md5: a0c9de725ba2bc0ba59882cbc0fc4699
+    time: 1453068194
+  "/sitemap.xml":
+    md5: ad3e995227db9144dd1b8e269b67ecf2
+    time: 1453068194
+  "/feed.xml":
+    md5: b7fe567650b6912c90d052e5d8015787
+    time: 1453068194
+  "/style.css":
+    md5: 9187a6775bdce8f1f2143accea89ba6c
+    time: 1453068194
